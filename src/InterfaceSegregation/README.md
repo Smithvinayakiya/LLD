@@ -1,0 +1,1 @@
+Here RestaurantEmployee Interface is faulty because it contains too many functonalities and hence the implementing class has to implement all the unnecessary functionalities. So ,we segregate the interface into separate interfaces which is ChefInterface and WaiterFace
